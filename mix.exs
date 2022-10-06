@@ -21,7 +21,8 @@ defmodule KinoVix.MixProject do
         files: ~w(LICENSE README.md lib mix.exs .formatter.exs)
       ],
       docs: [
-        source_url: @url
+        source_url: @url,
+        assets: "assets"
       ]
     ]
   end

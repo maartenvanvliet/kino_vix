@@ -28,3 +28,5 @@ Mix.install([
 
 E.g in conjunction with the [Image](https://hex.pm/packages/image) library 
 image manipulation is a breeze in Livebook.
+
+![Livebook example](assets/livebook.png)

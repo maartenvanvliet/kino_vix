@@ -12,6 +12,8 @@ defmodule KinoVix.MixProject do
       deps: deps(),
       source_url: @url,
       homepage_url: @url,
+      name: "KinoVix",
+      description: "Kino.Render protocol implementation for Vix.Vips.Image structs.",
       package: [
         maintainers: ["Maarten van Vliet"],
         licenses: ["MIT"],
